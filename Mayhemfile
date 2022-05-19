@@ -1,0 +1,8 @@
+project: qi
+target: qi
+
+image: ghcr.io/ebell495/qi:latest
+duration: 300
+
+cmds:
+    - cmd: src/build/qi @@
