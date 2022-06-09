@@ -2,4 +2,4 @@ project: qi
 target: qi
 
 cmds:
-    - cmd: src/build/qi @@
+    - cmd: /qi @@
